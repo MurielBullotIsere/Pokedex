@@ -21,3 +21,14 @@ npm fund
 ```bash
 npm install mongoose
 ```
+## Installation de Cors
+```bash
+npm install cors
+```
+
+## Démarrer le projet
+Lancer MangoDB Compass qui se trouve sur le bureau : sélectionner localhost:27017.  
+Dans le terminal, lancer la commande
+```bash
+nodemon server.js. 
+```
